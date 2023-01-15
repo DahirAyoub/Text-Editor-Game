@@ -21,18 +21,18 @@ names=["Main Hall","Master Bedroom","Master Closet","Master Bathroom","Loft","La
 adjancency_list=[[1,4,11,15],[0,2,16],[1,3],[2],[0,5,6,8],[4],[4,7],[6],[4,9,10],[8],[8,11],[0,10,12],[11,13,15],[12,14],[13,15,21,22],[0,12,14,16],[1,15,17,21],
 [16,18,20],[17,19],[18,20],[17,19],[14,16,20],[14,23],[22]]
 #Description for each location on my map.
-# description=["The main hall is the entrance to the estate. You will find the it connects to all the main places in the estate","The Master Bedroom is the biggest room in the house. It has a bed fitting for a king."
-# ,"The master closet has more cloths that one can imagine. It also the only way to get to the Master Bathroom.","The master bathroom features a beautiful shower and jaccuzi. It also has a his and her's sinks.","The loft is where you could relax and get away from people. It's also the connecting room of the west wing of the estate.",
-# "The laundry room is where we do laundry! It's also the smallest room in the estate.","Bedroom 2 is the first guest bedroom of the estate. It has its very own walk in closet.",
-# "Closet 3 is unfortunatly empty. The estate has currently has no visiting guest.","Bedroom 3 is the second guest bedroom of the estate. It has its very own walk in closet aswell. Unlike bedroom 2, it has a bathroom."
-# ,"Bedroom 3 closet is also empty unfortunatly.Once again, the estate dosen't have any guests.","Bathroom 1 is the connecting washroom between the kitchen and bedroom 3. It has a stand up a shower in it.",
-# "The Dining Room is where everyone enjoys there meal in this estate. We eat every meal here.","The kitchen is where the estate's chef cook for us. All the chef's went to Culinary School",
-# "Bathroom 2 is the second bathroom is the estate. Unfortunately, it dosen't have a shower.","The Theatre is the main attraction of the east wing of the estate. It has all the lastest movies.",
-# "The living room is where all the guess relax. It has a wood fire place.","The Office is where the anyone can get the word done. It a Herman Miller chair in it!",
-# "The garden has all types of plants and trees in it. On any given day, the chefs can make a meal with the foods grown in the garden.","The shed is where the fuse box is. It also stores most of the materials need for the garden."
-# ,"The pool is in the estate is olympic sized. It also has a hottub.","The conservatory is the most peaceful place of the estate. It also is the main attraction of the south wing of the estate.",
-# "The library has more books than one can read in there lifetime. It has books from every genre.","The playroom has the lastest technology in it. It also has enough room for vr!",
-# "The gym every type of machinery and free weights one needs to meet the fitness goals. It also has trainers ready to help you out."]
+description=["The main hall is the entrance to the estate. You will find the it connects to all the main places in the estate","The Master Bedroom is the biggest room in the house. It has a bed fitting for a king."
+,"The master closet has more cloths that one can imagine. It also the only way to get to the Master Bathroom.","The master bathroom features a beautiful shower and jaccuzi. It also has a his and her's sinks.","The loft is where you could relax and get away from people. It's also the connecting room of the west wing of the estate.",
+"The laundry room is where we do laundry! It's also the smallest room in the estate.","Bedroom 2 is the first guest bedroom of the estate. It has its very own walk in closet.",
+"Closet 3 is unfortunatly empty. The estate has currently has no visiting guest.","Bedroom 3 is the second guest bedroom of the estate. It has its very own walk in closet aswell. Unlike bedroom 2, it has a bathroom."
+,"Bedroom 3 closet is also empty unfortunatly.Once again, the estate dosen't have any guests.","Bathroom 1 is the connecting washroom between the kitchen and bedroom 3. It has a stand up a shower in it.",
+"The Dining Room is where everyone enjoys there meal in this estate. We eat every meal here.","The kitchen is where the estate's chef cook for us. All the chef's went to Culinary School",
+"Bathroom 2 is the second bathroom is the estate. Unfortunately, it dosen't have a shower.","The Theatre is the main attraction of the east wing of the estate. It has all the lastest movies.",
+"The living room is where all the guess relax. It has a wood fire place.","The Office is where the anyone can get the word done. It a Herman Miller chair in it!",
+"The garden has all types of plants and trees in it. On any given day, the chefs can make a meal with the foods grown in the garden.","The shed is where the fuse box is. It also stores most of the materials need for the garden."
+,"The pool is in the estate is olympic sized. It also has a hottub.","The conservatory is the most peaceful place of the estate. It also is the main attraction of the south wing of the estate.",
+"The library has more books than one can read in there lifetime. It has books from every genre.","The playroom has the lastest technology in it. It also has enough room for vr!",
+"The gym every type of machinery and free weights one needs to meet the fitness goals. It also has trainers ready to help you out."]
 
 #North function for when user enters north
 def north(location):
